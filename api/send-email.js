@@ -1,2 +1,1 @@
 import { Resend } from 'resend';
-
