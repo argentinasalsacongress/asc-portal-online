@@ -1,0 +1,10 @@
+{
+  "name": "asc-portal-netlify",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@resend/node": "^3.2.0",
+    "qrcode": "^1.5.3"
+  }
+}
