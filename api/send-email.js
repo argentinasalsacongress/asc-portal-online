@@ -1,1 +1,2 @@
+import { Resend } from 'resend';
 
